@@ -1,0 +1,26 @@
+[
+    {
+        "_id": 2000,
+        "name": "ABOUT",
+        "alias": "home",
+        "url": ".\/home"
+    },
+    {
+        "_id": 3000,
+        "name": "SERVICE",
+        "alias": "home",
+        "url": ".\/home"
+    },
+    {
+        "_id": 4000,
+        "name": "PRODUCT",
+        "alias": "home",
+        "url": ".\/home"
+    },
+    {
+        "_id": 5000,
+        "name": "CONTACT",
+        "alias": "home",
+        "url": ".\/home"
+    }
+]
